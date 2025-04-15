@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <name>UltraKiller Class</name>
+    <description>High-octane custom class for D&amp;D 5e.</description>
+    <author>Jynx</author>
+    <url>https://github.com/JinxedJester/Ultrakiller</url>
+    <update version="1.0.0">
+      <file name="homebrew.index" url="https://raw.githubusercontent.com/JinxedJester/homebrew-ultrakiller/main/homebrew.index" />
+    </update>
+  </info>
+  <files>
+    <file name="classes/class-ultrakiller.xml" url="https://raw.githubusercontent.com/JinxedJester/homebrew-ultrakiller/main/classes/class-ultrakiller.xml" />
+  </files>
+</index>
