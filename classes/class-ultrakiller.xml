@@ -78,4 +78,133 @@
       </tbody>
     </table>
   </element>
+  <element name="Blood Soak" type="Feature" source="Homebrew">
+  <description>
+    <![CDATA[
+      Your system charges with each kill. Gain a resource on kill that fuels certain abilities. Refer to full class here: https://www.dandwiki.com/wiki/UltraKiller_(5e_Class)
+    ]]>
+  </description>
+</element>
+
+<element name="Chassis Choice" type="Feature" source="Homebrew">
+  <description>
+    <![CDATA[
+      Choose your subclass path at 1st level: V1, V2, or SwordMachine. Each chassis grants unique abilities. Full details: https://www.dandwiki.com/wiki/UltraKiller_(5e_Class)
+    ]]>
+  </description>
+</element>
+
+<element name="Dodge Slide" type="Feature" source="Homebrew">
+  <description>
+    <![CDATA[
+      As a reaction, you can make a high-speed slide that grants a bonus to AC or lets you reposition. Details at: https://www.dandwiki.com/wiki/UltraKiller_(5e_Class)
+    ]]>
+  </description>
+</element>
+
+<element name="Speed Machine" type="Feature" source="Homebrew">
+  <description>
+    <![CDATA[
+      Your movement is unmatched. Gain increasing bonuses to movement speed at each level. Refer to: https://www.dandwiki.com/wiki/UltraKiller_(5e_Class)
+    ]]>
+  </description>
+</element>
+
+<element name="Hyper Evasion" type="Feature" source="Homebrew">
+  <description>
+    <![CDATA[
+      Grants powerful dodge capabilities. Increases survivability in fast-paced combat. Full rules: https://www.dandwiki.com/wiki/UltraKiller_(5e_Class)
+    ]]>
+  </description>
+</element>
+
+<element name="Fist of Pain" type="Feature" source="Homebrew">
+  <description>
+    <![CDATA[
+      A powerful melee attack that benefits from your blood resource. More info: https://www.dandwiki.com/wiki/UltraKiller_(5e_Class)
+    ]]>
+  </description>
+</element>
+
+<element name="Coinshot" type="Feature" source="Homebrew">
+  <description>
+    <![CDATA[
+      Unique ranged attack involving coins. A stylish mechanic that rewards precision. See: https://www.dandwiki.com/wiki/UltraKiller_(5e_Class)
+    ]]>
+  </description>
+</element>
+
+<element name="Whiplash" type="Feature" source="Homebrew">
+  <description>
+    <![CDATA[
+      Grants a grappling hook-like ability for mobility and combat repositioning. Full mechanics: https://www.dandwiki.com/wiki/UltraKiller_(5e_Class)
+    ]]>
+  </description>
+</element>
+
+<element name="Let There Be Blood" type="Feature" source="Homebrew">
+  <description>
+    <![CDATA[
+      Unleash a massive burst of speed and violence using your stored blood. Details: https://www.dandwiki.com/wiki/UltraKiller_(5e_Class)
+    ]]>
+  </description>
+</element>
+
+<element name="Hyper Dash" type="Feature" source="Homebrew">
+  <description>
+    <![CDATA[
+      Grants extreme burst movement in combat, even through enemies. For exact rules: https://www.dandwiki.com/wiki/UltraKiller_(5e_Class)
+    ]]>
+  </description>
+</element>
+
+<element name="Infinite Thrust" type="Feature" source="Homebrew">
+  <description>
+    <![CDATA[
+      Combo chaining mobility attack. High damage, high velocity. Full explanation: https://www.dandwiki.com/wiki/UltraKiller_(5e_Class)
+    ]]>
+  </description>
+</element>
+
+<element name="Bloody Comet" type="Feature" source="Homebrew">
+  <description>
+    <![CDATA[
+      Projectile finisher ability that consumes stored resources. See: https://www.dandwiki.com/wiki/UltraKiller_(5e_Class)
+    ]]>
+  </description>
+</element>
+
+<element name="Dragula" type="Feature" source="Homebrew">
+  <description>
+    <![CDATA[
+      Your final form—maximum power and style. Ultimate movement and damage. Full details: https://www.dandwiki.com/wiki/UltraKiller_(5e_Class)
+    ]]>
+  </description>
+</element>
+  <element name="V1 Chassis" type="Archetype" source="Homebrew" extends="UltraKiller">
+  <description>
+    <![CDATA[
+      Built for sustained offense and relentless pursuit. Gains features that enhance damage output, mobility, and precision targeting. 
+      See: https://www.dandwiki.com/wiki/UltraKiller_(5e_Class)#V1_Chassis
+    ]]>
+  </description>
+</element>
+
+<element name="V2 Chassis" type="Archetype" source="Homebrew" extends="UltraKiller">
+  <description>
+    <![CDATA[
+      Defensive and disruptive chassis with knockback, tanking mechanics, and area control tools. 
+      See: https://www.dandwiki.com/wiki/UltraKiller_(5e_Class)#V2_Chassis
+    ]]>
+  </description>
+</element>
+
+<element name="SwordMachine Chassis" type="Archetype" source="Homebrew" extends="UltraKiller">
+  <description>
+    <![CDATA[
+      The most aggressive chassis. Focuses on melee combo chains, parrying, and burst finishers. 
+      See: https://www.dandwiki.com/wiki/UltraKiller_(5e_Class)#SwordMachine_Chassis
+    ]]>
+  </description>
+</element>
 </elements>
