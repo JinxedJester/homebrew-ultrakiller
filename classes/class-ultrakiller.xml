@@ -1,20 +1,52 @@
 <elements>
   <element name="UltraKiller" type="Class" source="Homebrew" id="class-ultrakiller">
     <description>You are a machine built for one singular purpose: HIGH OCTANE DEATH...</description>
-  <setters>
-  <set name="hd">1d4</set>
-</setters>
+
+    <setters>
+      <set name="hd">1d4</set>
+      <set name="spellcasting-ability"></set>
+      <set name="caster-type">None</set>
+    </setters>
+
     <hit-die>1d4</hit-die>
+
     <proficiencies>
       <armor>Light Armor</armor>
       <weapons>Simple Weapons, Martial Weapons, Firearms</weapons>
       <saving-throws>Strength, Dexterity</saving-throws>
       <skills choose="3">Acrobatics, Athletics, Intimidation, Perception, Performance, Sleight of Hand, Stealth</skills>
     </proficiencies>
+
     <equipment>
       <option>(a) one simple firearm and a martial firearm or (b) one martial weapon and a shield</option>
       <option>(c) leather armor and a martial firearm</option>
     </equipment>
+
+    <archetypes level="3" /> <!-- Add archetypes here later if needed -->
+
+    <progression>
+      <level>1</level>
+      <level>2</level>
+      <level>3</level>
+      <level>4</level>
+      <level>5</level>
+      <level>6</level>
+      <level>7</level>
+      <level>8</level>
+      <level>9</level>
+      <level>10</level>
+      <level>11</level>
+      <level>12</level>
+      <level>13</level>
+      <level>14</level>
+      <level>15</level>
+      <level>16</level>
+      <level>17</level>
+      <level>18</level>
+      <level>19</level>
+      <level>20</level>
+    </progression>
+
     <table>
       <thead>
         <th>Level</th>
