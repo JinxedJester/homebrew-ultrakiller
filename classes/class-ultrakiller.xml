@@ -1,0 +1,49 @@
+<elements>
+  <element name="UltraKiller" type="Class" source="Homebrew" id="class-ultrakiller">
+    <description>You are a machine built for one singular purpose: HIGH OCTANE DEATH...</description>
+  <setters>
+  <set name="hd">1d4</set>
+</setters>
+    <hit-die>1d4</hit-die>
+    <proficiencies>
+      <armor>Light Armor</armor>
+      <weapons>Simple Weapons, Martial Weapons, Firearms</weapons>
+      <saving-throws>Strength, Dexterity</saving-throws>
+      <skills choose="3">Acrobatics, Athletics, Intimidation, Perception, Performance, Sleight of Hand, Stealth</skills>
+    </proficiencies>
+    <equipment>
+      <option>(a) one simple firearm and a martial firearm or (b) one martial weapon and a shield</option>
+      <option>(c) leather armor and a martial firearm</option>
+    </equipment>
+    <table>
+      <thead>
+        <th>Level</th>
+        <th>Proficiency Bonus</th>
+        <th>Features</th>
+        <th>Extra Movement</th>
+      </thead>
+      <tbody>
+        <tr><td>1</td><td>+2</td><td>Blood Soak, Chassis Choice, Dodge Slide, Speed Machine</td><td>+10 ft.</td></tr>
+        <tr><td>2</td><td>+2</td><td>Hyper Evasion, Fist of Pain</td><td>+10 ft.</td></tr>
+        <tr><td>3</td><td>+2</td><td>Chassis Upgrade, Coinshot</td><td>+10 ft.</td></tr>
+        <tr><td>4</td><td>+2</td><td>Ability Score Improvement</td><td>+10 ft.</td></tr>
+        <tr><td>5</td><td>+3</td><td>Extra Attack</td><td>+15 ft.</td></tr>
+        <tr><td>6</td><td>+3</td><td>Chassis Upgrade</td><td>+15 ft.</td></tr>
+        <tr><td>7</td><td>+3</td><td>Evasion</td><td>+15 ft.</td></tr>
+        <tr><td>8</td><td>+3</td><td>Ability Score Improvement</td><td>+20 ft.</td></tr>
+        <tr><td>9</td><td>+4</td><td>Whiplash</td><td>+20 ft.</td></tr>
+        <tr><td>10</td><td>+4</td><td>Let There Be Blood</td><td>+20 ft.</td></tr>
+        <tr><td>11</td><td>+4</td><td>Chassis Upgrade</td><td>+25 ft.</td></tr>
+        <tr><td>12</td><td>+4</td><td>Ability Score Improvement</td><td>+25 ft.</td></tr>
+        <tr><td>13</td><td>+5</td><td>Hyper Dash</td><td>+25 ft.</td></tr>
+        <tr><td>14</td><td>+5</td><td>Chassis Upgrade</td><td>+30 ft.</td></tr>
+        <tr><td>15</td><td>+5</td><td>Infinite Thrust</td><td>+30 ft.</td></tr>
+        <tr><td>16</td><td>+5</td><td>Ability Score Improvement</td><td>+30 ft.</td></tr>
+        <tr><td>17</td><td>+6</td><td>Bloody Comet</td><td>+35 ft.</td></tr>
+        <tr><td>18</td><td>+6</td><td>Chassis Upgrade</td><td>+35 ft.</td></tr>
+        <tr><td>19</td><td>+6</td><td>Ability Score Improvement</td><td>+40 ft.</td></tr>
+        <tr><td>20</td><td>+6</td><td>Dragula</td><td>+45 ft.</td></tr>
+      </tbody>
+    </table>
+  </element>
+</elements>
